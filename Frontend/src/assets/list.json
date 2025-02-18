@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "World Book Day",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-vertical-poster-template-world-book-day-celebration_23-2150209223.jpg?ga=GA1.1.132882204.1730183481&semt=ais_incoming"
+  },
+  {
+    "id": 2,
+    "name": "Fantasy Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/watercolor-card-with-fun-vampire_23-2147691401.jpg?t=st=1739102709~exp=1739106309~hmac=e1119eca06f720b677e3d4f76614a10ad8e622d79cd429b839ecd4a2d5901604&w=826"
+  },
+  {
+    "id": 3,
+    "name": "Lifestyle Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/autumn-concept-flyer-template_23-2148641147.jpg?t=st=1739102937~exp=1739106537~hmac=8e6114c8729f56319bdaed4ef1e9b3a457785dd7bcf3fadfdea424ccd6e30e7d&w=826"
+  },
+  {
+    "id": 4,
+    "name": "Relgious Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-guru-purnima-vertical-poster-template-with-candles-flip-flops_23-2149426331.jpg?t=st=1739103331~exp=1739106931~hmac=b9c4406455fa64fd51a953b7aba1a626e8aefc3657b02b3dc1561b322dfcbbc2&w=826"
+  },
+  {
+    "id": 5,
+    "name": "Science Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/world-book-day-vertical-poster_23-2148863529.jpg?t=st=1739104006~exp=1739107606~hmac=61d93a47fe73375c1c1ac504ee1278061988293918b789773239007424d1600f&w=826"
+  },
+  {
+    "id": 6,
+    "name": "Lifestyle Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$0.00",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/flat-vertical-poster-template-world-mental-health-day_23-2149619149.jpg?t=st=1739104217~exp=1739107817~hmac=674998a90a60acc0b87cbaf1b96b43752404c63b4ccfc9afb45e67442f366375&w=826"
+  },
+  {
+    "id": 7,
+    "name": "Science Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$56.58",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/gradient-science-poster-template_23-2149491186.jpg?t=st=1739211295~exp=1739214895~hmac=033517103bbe408d3689e8bad7a2dba3b4fad7987e74c32810200e13ecd2180d&w=826"
+  },
+  {
+    "id": 8,
+    "name": "Computer Science",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$118.05",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/5g-flyer-vertical-template_23-2149002345.jpg?t=st=1739211246~exp=1739214846~hmac=79acb8da33121ea01661fa81959f02afc610b4a2f9d5801be4c45dfaca177bdc&w=826"
+  },
+  {
+    "id": 9,
+    "name": "Grammer",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$78.00",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/flat-design-english-lessons-poster_23-2151051547.jpg?t=st=1739211175~exp=1739214775~hmac=97840d1c827243ebbdcffcf1056873e2a44a58f32e4cdaaec7c7756076ac3b49&w=826"
+  },
+  {
+    "id": 10,
+    "name": "GK Book",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$100.20",
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/blue-yellow-geometric-annual-report-design-template_68166-918.jpg?w=740"
+  },
+  {
+    "id": 11,
+    "name": "Mathematics",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$132.50",
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-photo/paper-with-yellow-pencil-red-pen-it_1032785-14854.jpg?w=826"
+  },
+  {
+    "id": 12,
+    "name": "Economics",
+    "title": "lorem ipsum dolor set amiet consectetur adispiscing elit.",
+    "price": "$150.00",
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-photo/vector-creative-digital-marketing-agency-poster-banner-template_1121250-445301.jpg?w=740"
+  }
+]
