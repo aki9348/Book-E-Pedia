@@ -15,4 +15,4 @@ steps to run code in your local device..
      >> npm start
 4. click on the recieved server generated after running the frontend folder.
 
-5. {Note: if the backend images will not appear on the page then just refresh it.} 
+5. {Note: if the backend images isn't appears on the page then just refresh it.} 
