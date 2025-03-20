@@ -1,6 +1,6 @@
 steps to run code in your local device..
 1. clone git
-   >> git clone https://github.com/aki9348/Book-E-Pedia/new/master?filename=README.md
+   >> git clone https://github.com/aki9348/Book-E-Pedia.git
 2. install dependencies for both frontend and backend folders
    > frontend:
      >> cd frontend
