@@ -1,0 +1,27 @@
+{
+  "name": "book-e-pedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && npm start",
+"dev": "concurrently -n \"frontend,backend\" -c \"bgblue,bgyellow\" \"npm run frontend\" \"npm run backend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aki9348/Book-E-Pedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aki9348/Book-E-Pedia/issues"
+  },
+  "homepage": "https://github.com/aki9348/Book-E-Pedia#readme",
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

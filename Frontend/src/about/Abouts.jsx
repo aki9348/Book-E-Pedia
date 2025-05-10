@@ -1,7 +1,7 @@
-import React from 'react'
-import Navbar from '../components/Navbar'
-import About from '../components/About'
-import Footer from '../components/Footer'
+import React from "react";
+import Navbar from "../components/Navbar";
+import About from "../components/About";
+import Footer from "../components/Footer";
 
 const Abouts = () => {
   return (
@@ -12,7 +12,7 @@ const Abouts = () => {
       </div>
       <Footer />
     </>
-  )
-}
+  );
+};
 
-export default Abouts
+export default Abouts;
